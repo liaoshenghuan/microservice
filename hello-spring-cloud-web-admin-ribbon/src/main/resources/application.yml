@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: hello-spring-cloud-web-admin-ribbon
+  # 用来模拟UI层配置
+  thymeleaf:
+    cache: false
+    mode: LEGACYHTML5
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
+
+server:
+  port: 8881
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8886/eureka/

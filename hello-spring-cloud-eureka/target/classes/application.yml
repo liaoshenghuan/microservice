@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: hello-spring-cloud-eureka
+
+server:
+  port: 8886
+
+eureka:
+  instance:
+    hostname: localhost
+    #设置为IP访问时需要做以下配置
+#    perferIpAddress: true
+  client:
+    #以下两个属性是用来区分是否服务端，不写两个属性就是客户端
+    registerWithEureka: false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/

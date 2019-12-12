@@ -1,0 +1,112 @@
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T041103.404.json
+
+###
+
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T041102-3.404.json
+
+###
+
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T041102-2.404.json
+
+###
+
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T041102-1.404.json
+
+###
+
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T041102.404.json
+
+###
+
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T041101.404.json
+
+###
+
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-09T041058.404.json
+
+###
+
+POST http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-08T073928.404.json
+
+###
+
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-04T101614.404.json
+
+###
+
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-04T101606.404.json
+
+###
+
+GET http://localhost:8886/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-04T101601.404.json
+
+###
+
+GET http://localhost:8886/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-04T101558.404.json
+
+###
+
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-04T101545.404.json
+
+###
+
+GET http://localhost:8885/hi?message=Spring
+Accept: */*
+Cache-Control: no-cache
+
+<> 2019-12-04T101538.404.json
+
+###
+
