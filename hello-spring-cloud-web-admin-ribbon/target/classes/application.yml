@@ -1,6 +1,7 @@
 spring:
   application:
     name: hello-spring-cloud-web-admin-ribbon
+  # 用来模拟UI层配置
   thymeleaf:
     cache: false
     mode: LEGACYHTML5

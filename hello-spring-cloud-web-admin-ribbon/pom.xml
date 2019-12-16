@@ -11,6 +11,7 @@
 
 	<artifactId>hello-spring-cloud-web-admin-ribbon</artifactId>
 	<packaging>jar</packaging>
+	<name>hello-spring-cloud-web-admin-ribbon</name>
 
 	<dependencies>
 		<!-- Spring Boot begin-->
