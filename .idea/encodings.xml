@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/hello-spring-cloud-dependencies" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hello-spring-cloud-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hello-spring-cloud-service-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hello-spring-cloud-service-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon" charset="UTF-8" />
   </component>
 </project>

@@ -10,14 +10,13 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  *
  * @version v1.0
  * @author: lsh
- * @create: 2019-12-02 22:43
+ * @create: 2019-12-16 17:05
  **/
 @SpringBootApplication
 @EnableEurekaClient
-//@ServletComponentScan
-//@ComponentScan(basePackages = {"com.funtl.hello.spring.cloud.service.admin"})//此注解用于请求不到控制层的接口，用于指定扫描包围着
 public class ServiceAdminApplication {
     public static void main(String[] args) {
         SpringApplication.run(ServiceAdminApplication.class,args);
     }
+
 }

@@ -1,219 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="32b3305a-7d55-413f-b95d-7d8336b2fee4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hello-spring-cloud.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-04T101538.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-04T101545.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-04T101558.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-04T101601.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-04T101606.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-04T101614.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-08T073928.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-09T041058.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-09T041101.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-09T041102-1.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-09T041102-2.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-09T041102-3.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-09T041102.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/2019-12-09T041103.404.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_csp_sentinel_core_1_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_andrewoma_dexx_dexx_collections_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_vlsi_compactmap_compactmap_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_7_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_2_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_33_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_stream_stax_api_1_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_10_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sourceforge_nekohtml_nekohtml_1_9_22.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_56.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_56.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_28.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_14_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_core_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_1_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_11_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_4_01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-dependencies/hello-spring-cloud-dependencies.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-dependencies/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-eureka/hello-spring-cloud-dependencies (1).iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-eureka/hello-spring-cloud-eureka.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-eureka/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/java/com.funtl.hello.spring.cloud.eureka/EurekaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-eureka/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-eureka/target/classes/com/funtl/hello/spring/cloud/eureka/EurekaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/hello-spring-service-admin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/ServiceAdminApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/classes/com/funtl/hello/spring/cloud/service/admin/ServiceAdminApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/hello-spring-service-admin-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/hello-spring-service-admin-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/hello-spring-cloud-web-admin-ribbon.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/WebAdminRibbonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/config/RestTemplateConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/service/AdminService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/target/classes/application.yml" afterDir="false" />
+    <list default="true" id="32b3305a-7d55-413f-b95d-7d8336b2fee4" name="Default Changelist" comment="修改文件服务注册目录">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_java8_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_9_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_0_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/WebAdminFeignApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/config/HystrixDashboardConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/service/hystrix/AdminServiceHystrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/WebAdminRibbonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/config/RestTemplateConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/controller/AdminController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/resources/img/熔断器释义及其图1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/resources/img/熔断器释义及其图2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hello-spring-cloud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hello-spring-cloud.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/ServiceAdminApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/ServiceAdminApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/hello-spring-cloud-web-admin-feign.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/hello-spring-cloud-web-admin-feign.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/ribbon/funtl/hello/spring/cloud/web/admin/feign/WebAdminFeignApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/hello-spring-cloud-web-admin-ribbon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/hello-spring-cloud-web-admin-ribbon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/WebAdminRibbonApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/config/RestTemplateConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/service/AdminService.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/hello-spring-cloud-dependencies/target/" />
     <ignored path="$PROJECT_DIR$/hello-spring-cloud-eureka/target/" />
     <ignored path="$PROJECT_DIR$/hello-spring-cloud-service-admin/target/" />
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <ignored path="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/target/" />
+    <ignored path="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -235,10 +78,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/ServiceAdminApplication.java">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/WebAdminRibbonApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="210">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/service/AdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="27" column="77" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/service/AdminService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="74">
+              <caret line="16" column="114" selection-start-line="16" selection-start-column="114" selection-end-line="16" selection-end-column="114" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -247,49 +108,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/service/hystrix/AdminServiceHystrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="28" />
+            <state relative-caret-position="32">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#394#395#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="64" selection-start-line="64" selection-end-line="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/WebAdminFeignApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+              <folding>
+                <element signature="e#737#738#0" expanded="true" />
+                <element signature="e#811#812#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/config/HystrixDashboardConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="17" column="52" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/java/com.funtl.hello.spring.cloud.eureka/EurekaApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/WebAdminRibbonApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+            <state relative-caret-position="172">
+              <caret line="30" column="56" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="56" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -307,34 +174,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/service/AdminService.java">
+        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-193">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hello-spring-cloud-dependencies/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-672">
-              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="256">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -344,6 +187,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -352,6 +196,8 @@
     <findStrings>
       <find>snapshots</find>
       <find>hello-spring-cloud-service-admin</find>
+      <find>ServiceAdminApplication</find>
+      <find>hello-spring-service-admin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -361,20 +207,31 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hello-spring-cloud-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/WebAdminRibbonApplication.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/config/RestTemplateConfiguration.java" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/java/com.funtl.hello.spring.cloud.eureka/EurekaApplication.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com/funtl/hello/spring/cloud/web/admin/feign/WebAdminFeignApplication.java" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/pom.xml" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/WebAdminRibbonApplication.java" />
-        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/pom.xml" />
-        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/service/AdminService.java" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/WebAdminRibbonApplication.java" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/controller/AdminController.java" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/ServiceAdminApplication.java" />
-        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/config/RestTemplateConfiguration.java" />
         <option value="$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/ribbon/funtl/hello/spring/cloud/web/admin/feign/WebAdminFeignApplication.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/controller/AdminController.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/WebAdminRibbonApplication.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/service/hystrix/AdminServiceHystrix.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/service/AdminService.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/WebAdminFeignApplication.java" />
+        <option value="$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/config/HystrixDashboardConfiguration.java" />
       </list>
     </option>
   </component>
@@ -388,6 +245,11 @@
         <option name="userSettingsFile" value="F:\tts9\apache-maven-3.5.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
     <option name="enabledProfiles">
       <list>
         <option value="nexus" />
@@ -396,241 +258,306 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hello-spring-cloud-service-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hello-spring-cloud-service-admin" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hello-spring-cloud-web-admin-ribbon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="hello-spring-cloud-web-admin-ribbon" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="875" />
-    <option name="y" value="20" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="402" />
+    <option name="y" value="311" />
     <option name="width" value="1400" />
     <option name="height" value="885" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springCloudStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello-spring-cloud-dependencies" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springCloudStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.funtl.hello.spring.cloud.eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-eureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-service-admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-service-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-service-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-service-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-service-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.funtl.hello.spring.cloud.service.admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-service-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.funtl.hello.spring.cloud.service.admin" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-service-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springCloudStudy" type="b2602c69:ProjectViewProjectNode" />
               <item name="hello-spring-cloud-web-admin-ribbon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-web-admin-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-web-admin-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-web-admin-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-web-admin-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ribbon" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-web-admin-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-web-admin-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-web-admin-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hello-spring-cloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hello-spring-cloud" type="462c0819:PsiDirectoryNode" />
-              <item name="hello-spring-cloud-web-admin-ribbon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springCloudStudy" type="58d84e3e:PackageViewProjectNode" />
+              <item name="hello-spring-cloud-dependencies" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="58d84e3e:PackageViewProjectNode" />
+              <item name="hello-spring-cloud-web-admin-ribbon" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-eureka" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-eureka" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-eureka" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-eureka" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-eureka" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.funtl.hello.spring.cloud.eureka" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-service-admin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-service-admin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-service-admin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-service-admin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-service-admin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.funtl.hello.spring.cloud.service.admin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-service-admin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.funtl.hello.spring.cloud.service.admin" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="controller" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-service-admin" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-feign" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-feign" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-feign" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-feign" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-feign" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.funtl.hello.spring.cloud.web.admin.feign" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-feign" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.funtl.hello.spring.cloud.web.admin.feign" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="config" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-feign" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.funtl.hello.spring.cloud.web.admin.feign" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="controller" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-feign" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.funtl.hello.spring.cloud.web.admin.feign" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-feign" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.funtl.hello.spring.cloud.web.admin.feign" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="hystrix" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-feign" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-ribbon" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-ribbon" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-ribbon" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-ribbon" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-ribbon" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.funtl.hello.spring.cloud.web.admin.ribbon" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-ribbon" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="com.funtl.hello.spring.cloud.web.admin.ribbon" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="service" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="springCloudStudy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="hello-spring-cloud-web-admin-ribbon" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="F:/rizhao/squirrel-pro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/resources/img" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gant" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\javastady\hello-spring-cloud\hello-spring-cloud-web-admin-ribbon\src\main\java\com\funtl\hello\spring\cloud\web\admin\ribbon" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.funtl.hello.spring.cloud.web.admin.feign" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\javastady\hello-spring-cloud\hello-spring-cloud-web-admin-ribbon\src\main\resources" />
-      <recent name="E:\javastady\hello-spring-cloud\hello-spring-cloud-web-admin-ribbon" />
-      <recent name="E:\javastady\hello-spring-cloud\hello-spring-cloud-service-admin\src\main\resources" />
-      <recent name="E:\javastady\hello-spring-cloud\hello-spring-cloud-service-admin" />
-      <recent name="E:\javastady\hello-spring-cloud\hello-spring-cloud-eureka" />
+      <recent name="E:\springCloudStudy\hello-spring-cloud-web-admin-ribbon\src\main\resources\img" />
+      <recent name="E:\springCloudStudy\hello-spring-cloud-web-admin-ribbon\src\main\java\com.funtl.hello.spring.cloud.web.admin.ribbon" />
+      <recent name="E:\springCloudStudy\hello-spring-cloud-service-admin" />
+      <recent name="E:\springCloudStudy\hello-spring-cloud-web-admin-feign\src\main\resources" />
+      <recent name="E:\springCloudStudy\hello-spring-cloud-web-admin-feign" />
     </key>
   </component>
   <component name="RestClientSettings">
@@ -724,6 +651,11 @@
     </option>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -734,8 +666,9 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.20969945" />
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceAdminApplication">
+  <component name="RunManager" selected="Spring Boot.WebAdminFeignApplication">
     <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="hello-spring-cloud-eureka" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.funtl.hello.spring.cloud.eureka.EurekaApplication" />
@@ -743,10 +676,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ServiceAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
-      <module name="hello-spring-service-admin" />
+    <configuration name="ServiceAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="hello-spring-cloud-service-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.funtl.hello.spring.cloud.service.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.funtl.hello.spring.cloud.service.admin.ServiceAdminApplication" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebAdminFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-spring-cloud-web-admin-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.funtl.hello.spring.cloud.web.admin.feign.WebAdminFeignApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -760,9 +706,15 @@
     </configuration>
     <list>
       <item itemvalue="Spring Boot.EurekaApplication" />
-      <item itemvalue="Spring Boot.ServiceAdminApplication" />
       <item itemvalue="Spring Boot.WebAdminRibbonApplication" />
+      <item itemvalue="Spring Boot.WebAdminFeignApplication" />
+      <item itemvalue="Spring Boot.ServiceAdminApplication" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ServiceAdminApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -786,16 +738,37 @@
       <workItem from="1575939941515" duration="1267000" />
       <workItem from="1576026496921" duration="1254000" />
       <workItem from="1576112551508" duration="4427000" />
+      <workItem from="1576142991846" duration="78000" />
+      <workItem from="1576465104196" duration="11055000" />
+      <workItem from="1576495952939" duration="67000" />
+      <workItem from="1576496039347" duration="7497000" />
     </task>
+    <task id="LOCAL-00001" summary="修改文件服务注册目录">
+      <created>1576483379261</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576483379261</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48711000" />
+    <option name="totallyTimeSpent" value="67408000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.2727882" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49888143" visible="true" weight="0.26876676" />
       <window_info id="Structure" order="1" sideWeight="0.50111854" side_tool="true" weight="0.18096514" />
       <window_info id="JRebel" order="2" sideWeight="0.50111854" side_tool="true" weight="0.18096514" />
       <window_info id="Favorites" order="3" sideWeight="0.50111854" side_tool="true" weight="0.18096514" />
@@ -804,28 +777,29 @@
       <window_info id="UI Designer" order="6" />
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1898017" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29886687" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.36775106" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.2733711" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
       <window_info anchor="bottom" id="JRebel Console" order="11" side_tool="true" weight="0.32956153" />
-      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Spring" order="12" weight="0.3286119" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
-      <window_info anchor="bottom" id="Problems" order="14" />
+      <window_info anchor="bottom" id="Problems" order="14" weight="0.3286119" />
       <window_info anchor="bottom" id="Messages" order="15" />
       <window_info anchor="bottom" id="REST Client" order="16" weight="0.16831683" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" sideWeight="0.49932975" visible="true" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24952918" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.122654155" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.21380697" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297587" />
@@ -834,17 +808,9 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/controller/AdminController.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改文件服务注册目录" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改文件服务注册目录" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -884,20 +850,10 @@
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-dependencies/hello-spring-cloud-dependencies.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/hello-spring-service-admin.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.5.RELEASE/spring-web-5.1.5.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RequestMethod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="616">
           <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="66" column="82" selection-start-line="66" selection-start-column="77" selection-end-line="66" selection-end-column="102" />
         </state>
       </provider>
     </entry>
@@ -943,10 +899,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/controller/AdminController.java">
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/hello-spring-cloud-eureka.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/hello-spring-cloud-dependencies (1).iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="140">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/aa.java" />
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-dependencies/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3360">
+          <caret line="123" column="32" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/AA.java" />
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/hello-spring-service-admin.iml" />
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/AA.java" />
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/hello-spring-cloud-service-admin.iml" />
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/controller/ServiceAdminApplication.java" />
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-58">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/tts9/apache-maven-3.5.3/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -955,22 +957,109 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/config/RestTemplateConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        <state relative-caret-position="308">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/WebAdminRibbonApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#572#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/ribbon/funtl/hello/spring/cloud/web/admin/feign/WebAdminFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" lean-forward="true" selection-start-column="8" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/config/RestTemplateConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/java/com.funtl.hello.spring.cloud.eureka/EurekaApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/ServiceAdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#484#485#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/controller/AdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#517#518#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/resources/img/熔断器释义及其图2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/WebAdminRibbonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -981,84 +1070,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/service/AdminService.java">
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com.funtl.hello.spring.cloud.web.admin.ribbon/service/AdminService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        <state relative-caret-position="312">
+          <caret line="27" column="77" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/service/hystrix/AdminServiceHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#394#395#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/service/AdminService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74">
+          <caret line="16" column="114" selection-start-line="16" selection-start-column="114" selection-end-line="16" selection-end-column="114" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/src/main/java/com/funtl/hello/spring/cloud/web/admin/ribbon/controller/AdminController.java">
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-ribbon/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-193">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="11" />
+        <state relative-caret-position="172">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/WebAdminFeignApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="21" column="42" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#811#812#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-dependencies/pom.xml">
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-672">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="256">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/java/com.funtl.hello.spring.cloud.eureka/EurekaApplication.java">
+    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-web-admin-feign/src/main/java/com.funtl.hello.spring.cloud.web.admin.feign/config/HystrixDashboardConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="172">
+          <caret line="30" column="56" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/hello-spring-cloud-eureka.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/hello-spring-cloud-dependencies (1).iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="17" column="52" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/java/com.funtl.hello.spring.cloud.service.admin/ServiceAdminApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="34" column="79" selection-start-line="34" selection-start-column="79" selection-end-line="34" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-spring-cloud-service-admin/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1079,7 +1158,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring (hello-spring-service-admin)|Spring</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1114,7 +1193,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>hello-spring-cloud</last-edited>
+          <last-edited>hello-spring-cloud-dependencies</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1149,5 +1228,8 @@
         </settings>
       </state>
     </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
   </component>
 </project>

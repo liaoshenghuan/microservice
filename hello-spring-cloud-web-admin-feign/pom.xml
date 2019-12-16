@@ -57,6 +57,11 @@
 			<artifactId>nekohtml</artifactId>
 		</dependency>
 
+		<!-- 监控熔断器依赖 -->
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-hystrix-dashboard</artifactId>
+		</dependency>
 
 	</dependencies>
 

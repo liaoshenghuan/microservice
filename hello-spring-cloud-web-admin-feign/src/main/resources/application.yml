@@ -12,7 +12,14 @@ spring:
 server:
   port: 8880
 
+# feign 自带熔断器，默认是关闭的，需要再配置打开，配置如下
+feign:
+  hystrix:
+    enabled: true
+
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8886/eureka/
+
+
