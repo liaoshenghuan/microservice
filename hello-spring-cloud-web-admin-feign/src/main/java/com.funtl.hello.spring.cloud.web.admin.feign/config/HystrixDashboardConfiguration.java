@@ -27,7 +27,7 @@ public class HystrixDashboardConfiguration {
         HystrixMetricsStreamServlet streamServlet = new HystrixMetricsStreamServlet();//创建Servlet
         //SpringBoot提供的框架，用这个bean，把Servlet放进去
         ServletRegistrationBean registrationBean = new ServletRegistrationBean(streamServlet);
-        registrationBean.setLoadOnStartup(1);//启动顺序
+        registrationBean.setLoadOnStartup(1);//设置启动顺序
         registrationBean.addUrlMappings("/hystrix.stream");//启动路径
         registrationBean.setName("HystrixMetricsStreamServlet");//相当web.xml中<name>的标签
         return registrationBean;
